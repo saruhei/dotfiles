@@ -1,0 +1,11 @@
+<?php
+/**
+ * ここにコメント
+ *
+ * PHP versions 5.*
+ *
+ * @category  
+ * @package   
+ * @author    shohei aoi <shohei_aoi@voyagegroup.com>
+ * @copyright 2014 Zucks, Inc.
+ */
