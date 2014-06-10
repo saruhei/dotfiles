@@ -6,6 +6,6 @@
  *
  * @category  
  * @package   
- * @author    shohei aoi <shohei_aoi@voyagegroup.com>
- * @copyright 2014 Zucks, Inc.
+ * @author    shohei aoi 
+ * @copyright 2014 hogehoge, Inc.
  */
