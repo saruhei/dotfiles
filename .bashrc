@@ -13,7 +13,7 @@ alias ls='ls -G'
 alias sc=parse_ssh_config
 alias gh="git log --graph --decorate --oneline  --pretty='format:%C(yellow)%h%Creset <%ad> %d %s %Cgreen(%an)%Creset %Cred%d%Creset'";
 alias s='echo "find ./* -type f -print | xargs grep \"hoge\" /dev/null"';
-alias unzipall= 'find . -name "*.tar.gz" -print0 | xargs -0 -n1 tar -zxvf';
+alias unzipall='find . -name "*.tar.gz" -print0 | xargs -0 -n1 tar -zxvf';
 export EDITOR=/usr/bin/vim
 
 source /etc/bash_completion.d/git
